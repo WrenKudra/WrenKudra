@@ -8,6 +8,7 @@
 🔭 I’ve completed my Web Dev bootcamp and I'm available for Graduate work. 👩🏻‍💻
 
 📫 How to reach me: tturner.zn@gmail.com
+
 ⚡ Fun fact: My typing speed is 55 words per minute 
 
 <hr />
