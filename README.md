@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif">
 
 <br />
-🔭 I’ve completed my Web Dev bootcamp and I'm available for Graduate work. 
+🔭 I’ve completed my Web Dev bootcamp and I'm available for Graduate work. 👩🏻‍💻
 📫 How to reach me: tturner.zn@gmail.com
-⚡ Fun fact: My typing speed is 55 words per minute
+⚡ Fun fact: My typing speed is 55 words per minute 
 
 <hr />
 
