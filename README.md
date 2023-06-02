@@ -4,9 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif">
 
-<br />
-🕸️ Full Stack Web Developer 
-<br />
 👩‍🎓Certified from HyperionDev
 <br />
 👩🏻‍💻 Working for Vidal Software Solutions
