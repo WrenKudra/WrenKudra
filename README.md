@@ -8,7 +8,7 @@
 <br />
 👩🏻‍💻 Working for Vidal Software Solutions
 <br />
-📫 How to reach me: tracey@vidalsoft.com
+📫 How to reach me: tturner.zn@gmail.com
 <br />
 ⚡ Fun fact: My typing speed is 55 words per minute 
 
@@ -123,6 +123,8 @@
       height="40"
     />
   </a>
+
+  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a>
 </p>
 
 <br />
