@@ -6,8 +6,6 @@
 
 👩‍🎓Certified from HyperionDev
 <br />
-👩🏻‍💻 Working for Vidal Software Solutions
-<br />
 📫 How to reach me: tturner.zn@gmail.com
 <br />
 ⚡ Fun fact: My typing speed is 55 words per minute 
